@@ -1,3 +1,4 @@
+package Model;
 public interface IProduitFactory {
     
 public ProduitA getProduitA();

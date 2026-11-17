@@ -1,3 +1,4 @@
+package Model;
 public class ProduitA2 extends ProduitA{
 
     public void methodeA() {

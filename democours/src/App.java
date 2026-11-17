@@ -1,3 +1,9 @@
+import Model.IProduitFactory;
+import Model.ProduitA;
+import Model.ProduitB;
+import Model.ProduitFactory1;
+import Model.ProduitFactory2;
+
 public class App {
     public static void main(String[] args) throws Exception {
         // System.out.println("Hello, World!");
