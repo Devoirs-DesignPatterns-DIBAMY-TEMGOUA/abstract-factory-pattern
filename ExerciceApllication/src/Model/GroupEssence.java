@@ -1,3 +1,4 @@
+package Model;
 public class GroupEssence extends Group{
 
     public void methodeGroup() {

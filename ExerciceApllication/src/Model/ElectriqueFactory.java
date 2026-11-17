@@ -1,3 +1,4 @@
+package Model;
 public class ElectriqueFactory implements EnginsFactory{
 public Scooter getScooter() {
     return new ScooterElectrique();

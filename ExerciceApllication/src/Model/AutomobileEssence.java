@@ -1,3 +1,4 @@
+package Model;
 public class AutomobileEssence extends Automobile{
 
     public void methodeAutomobile() {

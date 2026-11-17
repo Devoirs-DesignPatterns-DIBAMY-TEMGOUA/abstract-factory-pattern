@@ -1,3 +1,11 @@
+
+import Model.Automobile;
+import Model.ElectriqueFactory;
+import Model.EnginsFactory;
+import Model.EssenceFactory;
+import Model.Scooter;
+import Model.Group;
+
 public class App {
     public static void main(String[] args) throws Exception {
         // System.out.println("Hello, World!");

@@ -1,3 +1,4 @@
+package Model;
 public class EssenceFactory implements EnginsFactory{
 
   public Scooter getScooter() {

@@ -1,3 +1,4 @@
+package Model;
 public class ScooterElectrique extends Scooter{
 
     public void methodeScooter() {
